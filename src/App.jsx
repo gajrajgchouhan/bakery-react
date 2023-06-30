@@ -22,7 +22,7 @@ function App({ addProductToCart, removeProductFromCart }) {
         <div>
             <Nav />
             <div>
-                <img src="/landing.jpg" alt="landing" />
+                <img src="/landing2.jpg" alt="landing" />
             </div>
             <hr className="border-2 border-black" />
             <div className="flex flex-wrap gap-4 items-center my-2 mx-2 lg:ml-8 lg:my-12">
